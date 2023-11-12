@@ -10,9 +10,3 @@
 [![npm](https://img.shields.io/npm/v/dryerjs?logo=npm&color=success)](https://www.npmjs.com/package/dryerjs)
 [![Discord](https://img.shields.io/discord/1165841842873565264?logo=discord&color=success)](https://discord.gg/mBZN86W5Fa)
 [![Paypal](https://img.shields.io/badge/Donate-PayPal-ff3f59.svg?logo=paypal&color=success)](https://paypal.me/briandryerjs)
-
-## We maintain DryerJS library
-
-## Contact
-
-Email: dev@dryerjs.com
