@@ -4,6 +4,10 @@
   <img alt="DryerJS Logo" src="https://dryerjs.github.io/logo-light.png" width="300px">
 </picture>
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 [![codecov](https://codecov.io/gh/dryerjs/dryerjs/graph/badge.svg?token=ZQOWFCGXUK)](https://codecov.io/gh/dryerjs/dryerjs)
 [![Build Status](https://github.com/dryerjs/dryerjs/workflows/CI/badge.svg)](https://github.com/dryerjs/dryerjs/actions)
 [![Release Status](https://github.com/dryerjs/dryerjs/workflows/Release/badge.svg)](https://github.com/dryerjs/dryerjs/actions)
